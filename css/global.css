@@ -1,0 +1,14 @@
+:root {
+    background: #E5E5E5;
+}
+
+body,
+body * {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+body {
+    font-family: 'Montserrat';
+}
